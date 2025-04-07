@@ -5,6 +5,3 @@
 - 📫 How to reach me: Github or Linkedin https://www.linkedin.com/in/piter-gomes-4a39281a1/
 - ⚡ Fun fact: graduated in biological sciences with a master's degree in Oceanography.
 
-pitercoding/pitercoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
