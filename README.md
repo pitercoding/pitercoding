@@ -6,10 +6,10 @@
 - ⚡ Fun fact: graduated in biological sciences with a master's degree in Oceanography.
 
 <a href="https://github.com/pitercoding/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pitercoding&theme=radical" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=pitercoding&theme=radical" />
 </a>
 <a href="https://github.com/pitercoding/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pitercoding&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pitercoding&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
 \
