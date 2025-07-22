@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning: HTML, CSS, JavaScript, Angular, Java, Spring Boot, MySQL and many more...
 
-📫 How to reach me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/piter-gomes-4a39281a1/)  [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat&logoColor=white)](https://github.com/pitercoding)
+📫 How to reach me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/piter-gomes-4a39281a1/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:piterg.bio@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat&logoColor=white)](https://github.com/pitercoding)
 
 ⚡ Fun fact: I graduated in Biological Sciences and have a master's degree in Oceanography.
 
