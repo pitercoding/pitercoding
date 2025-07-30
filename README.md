@@ -2,7 +2,7 @@
 
 🎓 I am a Computer Science student in my fifth semester.
 
-👀 I’m interested in: Programmin, History, Geopolitics, Biology, Books, Music, Travel and Games. 
+👀 I’m interested in: Programming, History, Geopolitics, Biology, Books, Music, Travel and Games. 
 
 🌱 I’m currently learning: HTML, CSS, JavaScript, Angular, Java, Spring Boot, MySQL and many more...
 
