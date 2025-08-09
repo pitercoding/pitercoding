@@ -4,7 +4,7 @@
 
 👀 I’m interested in: Programming, History, Geopolitics, Biology, Books, Music, Travel and Games. 
 
-🌱 I’m currently learning: HTML, CSS, JavaScript, Angular, Java, Spring Boot, MySQL and many more...
+🌱 I’m currently learning: Java, JavaScript, Angular, Spring Boot, MySQL and many more...
 
 📫 How to reach me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/piter-gomes-4a39281a1/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:piterg.bio@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat&logoColor=white)](https://github.com/pitercoding)
 
