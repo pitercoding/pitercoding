@@ -1,15 +1,30 @@
 ## 👋 Hi, I’m @pitercoding
 
-🎓 I am a Computer Science student in my fifth semester.
+### 🎓 **Computer Science Student** | 5th Semester  
+### 🌍 Based in Münster, Germany / Rio de Janeiro, Brazil
 
-👀 I’m interested in: Programming, History, Geopolitics, Biology, Books, Music, Travel and Games. 
+### 🌱 Currently Learning
+**Languages & Frameworks:**  
+Java, JavaScript, Node.js, PHP, HTML5, CSS3, MySQL  
 
-🌱 I’m currently learning: Java, Spring Boot, JavaScript, Node.JS, HTML5, CSS3, Angular, MySQL and many more...
+**Front-End & Libraries:**  
+React, Next.js, Angular  
 
-📫 How to reach me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/piter-gomes-4a39281a1/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:piterg.bio@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat&logoColor=white)](https://github.com/pitercoding)
+**Back-End & Tools:**  
+Spring Boot, Git & GitHub  
 
-⚡ Fun fact: I graduated in Biological Sciences and have a master's degree in Oceanography.
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/piter-gomes-4a39281a1/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:piterg.bio@gmail.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat&logoColor=white)](https://github.com/pitercoding)
 
+### 👀 Interests
+Programming, History, Geopolitics, Biology, Books, Music, Travel, Games  
+
+### ⚡ Fun Fact
+I hold a **Bachelor’s degree in Biological Sciences** and a **Master’s degree in Oceanography**, now transitioning into the world of software development.
+
+---
 
 <div align="center">
 <a href="https://github.com/pitercoding/github-readme-stats">
@@ -28,14 +43,14 @@
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
-
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
