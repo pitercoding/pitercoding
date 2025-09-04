@@ -1,17 +1,7 @@
 ## 👋 Hi, I’m @pitercoding
 
-### 🎓 **Computer Science Student** | 5th Semester  
-### 🌍 Based in Münster, Germany / Rio de Janeiro, Brazil
-
-### 🌱 Currently Learning
-**Languages & Frameworks:**  
-Java, JavaScript, Node.js, PHP, HTML5, CSS3, MySQL  
-
-**Front-End & Libraries:**  
-React, Next.js, Angular  
-
-**Back-End & Tools:**  
-Spring Boot, Git & GitHub  
+🎓 **Computer Science Student** | 5th Semester  
+🌍 Based in Münster, Germany / Rio de Janeiro, Brazil
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/piter-gomes-4a39281a1/) 
