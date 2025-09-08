@@ -4,10 +4,23 @@
 🌍 Based in Münster, Germany / Rio de Janeiro, Brazil
 
 ### 📫 Connect with Me:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://my-portfolio-flame-mu-xxis8wes4p.vercel.app/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/piter-gomes-4a39281a1/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:piterg.bio@gmail.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat&logoColor=white)](https://github.com/pitercoding)
+
+<a href="https://my-portfolio-flame-mu-xxis8wes4p.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/piter-gomes-4a39281a1/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white" />
+</a>
+
+<a href="mailto:piterg.bio@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/pitercoding" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=flat&logoColor=white" />
+</a>
+
 
 ### 👀 Interests:
 Programming, History, Geopolitics, Biology, Books, Music, Travel, Games  
