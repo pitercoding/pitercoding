@@ -1,32 +1,22 @@
 ## 👋 Hi, I’m @pitercoding
 
 🎓 **Computer Science Student** | 5th Semester  
-🌍 Based in Münster, Germany / Rio de Janeiro, Brazil
 
-### 📫 Connect with Me:
+🌍 Based in Münster (Germany) from Rio de Janeiro (Brazil)
 
-<a href="https://my-portfolio-flame-mu-xxis8wes4p.vercel.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
-</a>
+📫 Connect with Me: 
+<div align="left">
 
-<a href="https://www.linkedin.com/in/piter-gomes-4a39281a1/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-flame-mu-xxis8wes4p.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piter-gomes-4a39281a1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piterg.bio@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pitercoding)
 
-<a href="mailto:piterg.bio@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-</a>
+</div>
 
-<a href="https://github.com/pitercoding" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=flat&logoColor=white" />
-</a>
+👀 Interests: Programming, History, Geopolitics, Biology, Books, Music, Travel, Games  
 
-
-### 👀 Interests:
-Programming, History, Geopolitics, Biology, Books, Music, Travel, Games  
-
-### ⚡ Fun Fact:
-I hold a **Bachelor’s degree in Biological Sciences** and a **Master’s degree in Oceanography**, now transitioning into the world of software development.
+⚡ Fun Fact: I hold a **Bachelor’s degree in Biological Sciences** and a **Master’s degree in Oceanography**, now transitioning into the world of software development.
 
 ---
 
