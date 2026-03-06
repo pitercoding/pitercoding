@@ -3,7 +3,7 @@
 <p align="center">
   🎓 <strong>Computer Science Student</strong> — 6th Semester  
   <br>
-  🌍 Living in <strong>Germany</strong> • From <strong>Rio de Janeiro, Brazil</strong>  
+  🌍 Living in <strong>Germany</strong> • From <strong>Brazil</strong>  
 </p>
 
 
