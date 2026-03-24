@@ -6,6 +6,7 @@
   🌍 Living in <strong>Germany</strong> • From <strong>Brazil</strong>  
 </p>
 
+I hold a Bachelor's in **Biological Sciences** and a **Master's in Oceanography**, and I'm now fully transitioning into the world of **software development**, with the goal of becoming a **Fullstack Developer**. I enjoy building end-to-end applications, working across both **backend and frontend**, and continuously improving my skills in modern web technologies.
 
 ## 📫 Connect with Me
 <div align="left">
@@ -16,14 +17,7 @@
 
 </div>
 
-
-## 👀 Interests  
-Programming • History • Geopolitics • Biology • Books • Music • Travel • Games  
-
-## ⚡ **Fun fact:**
-I hold a Bachelor's in **Biological Sciences** and a **Master's in Oceanography**, and now I'm fully transitioning into the world of **software development**.
-
----
+## 📈 Stats
 
 <div align="center">
 <a href="https://github.com/pitercoding/github-readme-stats">
@@ -34,7 +28,7 @@ I hold a Bachelor's in **Biological Sciences** and a **Master's in Oceanography*
 </a>
 </div>
 
-# 🖥️ Tech Stack
+## 🖥️ Tech Stack
 
 <div align="left">
 
@@ -63,15 +57,15 @@ I hold a Bachelor's in **Biological Sciences** and a **Master's in Oceanography*
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### 🐳 DevOps, Containers & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ### 🛠️ IDEs & Version Control
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Git Bash](https://img.shields.io/badge/Git_Bash-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-000000?style=for-the-badge&logo=github&logoColor=white)
+
+### 🐳 DevOps, Containers & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -86,10 +80,6 @@ I hold a Bachelor's in **Biological Sciences** and a **Master's in Oceanography*
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pitercoding&"  />
 </div>
-
-###
-
-<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
