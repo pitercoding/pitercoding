@@ -15,7 +15,6 @@ As a **Computer Science student** and **Software Development and Data Analysis I
 <div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piter-gomes-4a39281a1/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piterg.bio@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-flame-mu-xxis8wes4p.vercel.app/)
 
 </div>
