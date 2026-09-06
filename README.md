@@ -66,8 +66,6 @@ As a **Computer Science student** and **Software Development and Data Analysis I
 
 </div>
 
----
-
 ## 📫 Connect with Me
 <div align="left">
 
