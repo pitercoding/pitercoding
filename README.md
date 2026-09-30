@@ -6,9 +6,7 @@
   🌍 From <strong>Brazil</strong> • Living in <strong>Germany</strong>
 </p>
 
-I hold a Bachelor's degree in **Biological Sciences** and a **Master's degree in Oceanography**, and I am currently transitioning into the field of **software development**.
-
-As a **Computer Science student** and **Software Development and Data Analysis Intern**, I am gaining **hands-on experience** and learning how to apply my academic knowledge to **real-world projects**. My goal is to grow as a **Full-Stack Developer** while continuously developing my **problem-solving skills**, understanding of **software development practices**, and knowledge of **modern technologies**.
+I’m a **Computer Science student** and **Software Development & Data Analysis Intern**, currently gaining hands-on experience and applying what I learn through real-world projects. My goal is to grow as a **Full-Stack Developer** while strengthening my **problem-solving skills**, software development practices, and knowledge of modern technologies. Before transitioning into tech, I earned a **Bachelor’s degree in Biological Sciences** and a **Master’s degree in Oceanography**. I’m now combining my academic background with my passion for technology as I build my career in **software development**.
 
 </div>
 
@@ -43,9 +41,9 @@ As a **Computer Science student** and **Software Development and Data Analysis I
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,angular,html,css,sass)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,postman)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
 
 </div>
 
